@@ -350,13 +350,13 @@ int main(){
 }
 ```
 
-**Nestion of member function**
+**Nestion of member function**:
 Call a function in a function
 
-**Object Memory Alucation**
+**Object Memory Alucation**:
 The memory is only allocated to the variable of the calss when the object is created.
 
-**Array in callses**
+**Array in callses**:
 * at() --> Access element of array
 * get() --> Input array element
 
