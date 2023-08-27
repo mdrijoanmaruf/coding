@@ -307,7 +307,7 @@ newdic = mydic.copy()               # newdic now contain mydic copy values
 # A dictionary can contain another dictionary and etc.
 ```
 
-## Functions
+## Functions :
 ```py
 def myfunction(x):          # Function define
     print(x)
@@ -315,7 +315,7 @@ myfunction(100)             # Function call
 
 ```
 
-## File
+## File :
 ```py
 f = open("new.c" , "w+")# file neame new.c and mode w+ = read and write
 f.write("Hello wold")   # write file
