@@ -170,7 +170,7 @@ typedef struct employee{
 }ep;
 
 int main(){
-    ep = saif;      // ep --> struct employee
+    ep saif;      // ep --> struct employee
     saif.id = 100;
     saif.salary = 2000;
 }
